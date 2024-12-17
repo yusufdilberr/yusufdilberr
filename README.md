@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **yusuferendilber1@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-working-program-web-developer-coding-computer-screen-with-code-script-open-windows-coder-engineer-vector-concept-illustration-development-programmer-programming-coding_102902-3910.jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmers-code-web-site-computer_7087-594.jpg">
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -20,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufdilberr&show_icons=true&locale=en&layout=compact" alt="yusufdilberr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdilberr&" alt="yusufdilberr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdilberr&theme=default" alt="yusufdilberr" /></p>
